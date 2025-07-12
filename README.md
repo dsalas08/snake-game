@@ -33,7 +33,8 @@ It was one of the most fun projects to build!
 
 ## 🖼️ Preview
 
-_(You can add a screenshot here later if you want)_
+
+<img width="1316" height="746" alt="snake-game" src="https://github.com/user-attachments/assets/b0bd8958-d85d-491f-8748-c9449e8a9afb" />
 
 ---
 
