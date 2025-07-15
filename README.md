@@ -42,3 +42,20 @@ Adding collision logic and slicing the list to omit the snake's head made me thi
 
 <img width="1027" height="741" alt="snake-game (update)" src="https://github.com/user-attachments/assets/e4dbd2c8-3e22-4345-99b1-c3155e37cad8" />
 
+---
+
+## ✅ Skills Used
+
+- Python functions & classes  
+- Inheritance with `super()`  
+- Turtle graphics module  
+- Modular design (OOP structure)  
+- List slicing and loop control  
+- Git & GitHub workflow  
+
+---
+
+## 🚀 Run It Yourself
+
+```bash
+python3 snake_game.py
